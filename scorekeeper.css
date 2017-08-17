@@ -1,0 +1,37 @@
+
+body{
+	background-color: black;
+}
+
+.page {
+	padding: 10px 0;
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+input{
+	color:black;
+}
+
+.v1{
+	background-color: black;
+	padding: 15px 15px;
+	border: 10px solid #f9f09c;
+
+}
+
+#playingto{
+	font-size: 20px;
+	color: #fbf7f3;
+
+}
+
+h1{
+	color:#fbf7f3;
+}
+
+.winner{
+	color: #59de47;
+}
+
+
